@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CH2Studio/1.0.0": {
+        "runtime": {
+          "CH2Studio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH2Studio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

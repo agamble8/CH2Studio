@@ -1,0 +1,12 @@
+C:\AG\LC101\C_projects\CH2\CH2Studio\CH2Studio\bin\Debug\netcoreapp3.1\CH2Studio.exe
+C:\AG\LC101\C_projects\CH2\CH2Studio\CH2Studio\bin\Debug\netcoreapp3.1\CH2Studio.deps.json
+C:\AG\LC101\C_projects\CH2\CH2Studio\CH2Studio\bin\Debug\netcoreapp3.1\CH2Studio.runtimeconfig.json
+C:\AG\LC101\C_projects\CH2\CH2Studio\CH2Studio\bin\Debug\netcoreapp3.1\CH2Studio.runtimeconfig.dev.json
+C:\AG\LC101\C_projects\CH2\CH2Studio\CH2Studio\bin\Debug\netcoreapp3.1\CH2Studio.dll
+C:\AG\LC101\C_projects\CH2\CH2Studio\CH2Studio\bin\Debug\netcoreapp3.1\CH2Studio.pdb
+C:\AG\LC101\C_projects\CH2\CH2Studio\CH2Studio\obj\Debug\netcoreapp3.1\CH2Studio.AssemblyInfoInputs.cache
+C:\AG\LC101\C_projects\CH2\CH2Studio\CH2Studio\obj\Debug\netcoreapp3.1\CH2Studio.AssemblyInfo.cs
+C:\AG\LC101\C_projects\CH2\CH2Studio\CH2Studio\obj\Debug\netcoreapp3.1\CH2Studio.csproj.CoreCompileInputs.cache
+C:\AG\LC101\C_projects\CH2\CH2Studio\CH2Studio\obj\Debug\netcoreapp3.1\CH2Studio.dll
+C:\AG\LC101\C_projects\CH2\CH2Studio\CH2Studio\obj\Debug\netcoreapp3.1\CH2Studio.pdb
+C:\AG\LC101\C_projects\CH2\CH2Studio\CH2Studio\obj\Debug\netcoreapp3.1\CH2Studio.genruntimeconfig.cache
